@@ -2,6 +2,7 @@
 *.wav
 /.vscode
 /venv
+/models
 
 # Added by cargo
 #
